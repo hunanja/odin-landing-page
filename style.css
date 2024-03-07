@@ -64,6 +64,37 @@ button {
     align-items: center;
 }
 
+.info {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    padding: 30px;
+}
+
+.info-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 80px;
+}
+
+.set {
+    display: flex;
+    justify-content: space-between;
+    gap: 25px;
+    width: 800px;
+    text-align: center;
+}
+
+.set .illustration {
+    width: 181px;
+    height: 175.25px;
+    border: solid #3882f6;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
 a {
     text-decoration: none;
     color: #f9faf8;
