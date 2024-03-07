@@ -147,6 +147,13 @@ button {
     border: 2px solid #f9faf8
 }
 
+footer {
+    text-align: center;
+    background-color: #1f2937;
+    color: #f9faf8;
+    padding: 30px;
+}
+
 a {
     text-decoration: none;
     color: #f9faf8;
